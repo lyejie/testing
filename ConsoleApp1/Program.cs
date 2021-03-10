@@ -13,6 +13,7 @@ namespace ConsoleApp1
             var banana = new Banana(40);
             var strawberry = new Strawberry(70);
             var apple = new Apple(30);
+            var durian = new Durian(55);
 
             //fruit.welcome();
 
@@ -22,6 +23,7 @@ namespace ConsoleApp1
             Console.WriteLine(banana.banana + " " + banana.size);
             Console.WriteLine(strawberry.strawberry + " " + strawberry.size);
             Console.WriteLine(apple.apple + " " + apple.size);
+            Console.WriteLine(durian.durian + " " + durian.size);
 
             try
             {
@@ -48,6 +50,11 @@ namespace ConsoleApp1
                     case 4:
                         apple.selected();
                         apple.payment();
+                        break;
+
+                    case 5:
+                        durian.selected();
+                        durian.payment();
                         break;
 
                     default:
