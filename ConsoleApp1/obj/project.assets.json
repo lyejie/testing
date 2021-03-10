@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\lyejiela\\.nuget\\packages\\": {}
+    "C:\\Users\\peilingl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lyejiela\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\peilingl\\Downloads\\testing\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\lyejiela\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\lyejiela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lyejiela\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\peilingl\\Downloads\\testing\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\peilingl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\peilingl\\Downloads\\testing\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lyejiela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\peilingl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
