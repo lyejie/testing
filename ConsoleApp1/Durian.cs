@@ -6,7 +6,7 @@ namespace ConsoleApp1
 {
     class Durian : Fruit
     {
-        public string durian = "5. Black Pearl Durian is RM205.30";
+        public string durian = "5. Black Pearl Durian is RM208.30";
 
         public Durian(int qty) : base(qty)
         {
